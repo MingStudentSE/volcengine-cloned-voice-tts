@@ -1,9 +1,15 @@
 # Volcengine Cloned Voice TTS
 
-> 面向中文长文口播的 Codex Skill。
+> 面向中文长文口播的 Codex / Claude Code Skill。  
 > 用户在火山引擎控制台完成声音复刻并提供音色 ID，Agent 负责口语化改写、逐段情绪提示、调用豆包语音合成模型 2.0 生成完整 MP3。
 
-项目定位 · 功能特性 · 工作流 · 快速开始 · 火山引擎配置 · 使用流程 · 项目结构 · 常见问题
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Volcengine](https://img.shields.io/badge/TTS-%E8%B1%86%E5%8C%85%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%202.0-7c3aed.svg)](https://console.volcengine.com/speech/new/overview)
+[![Voice Clone](https://img.shields.io/badge/Voice%20Clone-%E6%8E%A7%E5%88%B6%E5%8F%B0%E5%A4%8D%E5%88%BB-blue.svg)](https://console.volcengine.com/speech/new/overview)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB.svg)](https://www.python.org/)
+[![FFmpeg](https://img.shields.io/badge/FFmpeg-required-007808.svg)](https://ffmpeg.org/)
+
+[项目定位](#项目定位) · [功能特性](#功能特性) · [工作流](#工作流) · [快速开始](#快速开始) · [火山引擎配置](#火山引擎配置) · [使用流程](#使用流程) · [项目结构](#项目结构) · [安全与隐私](#安全与隐私)
 
 ## 项目定位
 
